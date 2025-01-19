@@ -1,7 +1,7 @@
-######Dodger Game 🎮
+###### Dodger Game 🎮
 Dodger is an interactive arcade-style game built with Python and Pygame. Your goal is to navigate through levels while avoiding obstacles and striving for the highest score.
 
-#######Features 🚀
+####### Features 🚀
 Dynamic Levels: Two visually distinct levels, each with unique backgrounds and star obstacles.
 Player Customization: Multiple character sprites that adapt to movements.
 Scoring System: Keeps track of your games won, saved locally using a JSON file.
