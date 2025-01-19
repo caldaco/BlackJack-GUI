@@ -11,7 +11,6 @@ Dodger is an interactive arcade-style game built with Python and Pygame. Your go
 
 # How to Play 🕹️
 - Enter your username when prompted.
-- Use the following controls:
 - Arrow Keys: Move left and right.
 - A/D Keys: Alternate controls to move left and right.
 - Avoid colliding with falling stars.
